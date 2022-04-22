@@ -4,7 +4,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 I am Jehad Abushaqra
-- 🔭 I a student in [GSG](https://github.com/GSG-G11/) in [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
+- 🔭 I a student in [GSG](https://github.com/GSG-G11/) of [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 - 💻 I worked alot of projects with teams at [GSG](https://github.com/GSG-G11/)
 - 💁‍♂️ I have a degree at Electrical Engineering
 - 🌱 I am currently focusing on learning React
